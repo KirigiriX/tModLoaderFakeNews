@@ -3,16 +3,16 @@
     "appid": 1281930,
     "newsitems": [
       {
+        "gid": "dummy_gid",
         "title": "THIS IS A TEST",
-        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1809235871706569",
+        "url": "https://example.com/news/test",
         "is_external_url": true,
+        "author": "TestAuthor",
         "contents": "",
-        "author": "",
-        "gid": "",
+        "feedlabel": "Community Announcements",
         "date": 0,
-        "feedlabel": "",
-        "feedname": "",
-        "feed_type": 0,
+        "feedname": "steam_community_announcements",
+        "feed_type": 1,
         "appid": 1281930
       }
     ],
