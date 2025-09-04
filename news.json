@@ -1,9 +1,21 @@
 {
-  "newsitems": [
-    {
-      "title": "THIS IS A TEST",
-      "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1809235871706569",
-      "is_external_url": true
-    }
-  ]
+  "appnews": {
+    "appid": 1281930,
+    "newsitems": [
+      {
+        "title": "THIS IS A TEST",
+        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1809235871706569",
+        "is_external_url": true,
+        "contents": "",
+        "author": "",
+        "gid": "",
+        "date": 0,
+        "feedlabel": "",
+        "feedname": "",
+        "feed_type": 0,
+        "appid": 1281930
+      }
+    ],
+    "count": 1
+  }
 }
